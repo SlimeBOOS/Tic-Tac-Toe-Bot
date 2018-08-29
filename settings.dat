@@ -1,0 +1,5 @@
+saveGame True Save games
+mutationRate 0.01 Mutation rate
+poolSize 10 Pool size
+batchIndex 0 Batch index
+crossoverChance 0.75 Crossover chance
